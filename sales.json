@@ -1,0 +1,107 @@
+[
+    {
+        "Date": "2025-01-13 21:27:54",
+        "TotalAmount": 540.0,
+        "Items": [
+            {
+                "ID": 1023,
+                "Name": "Phone tempered",
+                "Price": 100.0,
+                "Quantity": 1,
+                "Total": 100.0
+            },
+            {
+                "ID": 3056,
+                "Name": "Phone Case",
+                "Price": 150.0,
+                "Quantity": 1,
+                "Total": 150.0
+            },
+            {
+                "ID": 3057,
+                "Name": "charger type - c",
+                "Price": 290.0,
+                "Quantity": 1,
+                "Total": 290.0
+            }
+        ]
+    },
+    {
+        "Date": "2025-01-13 21:28:32",
+        "TotalAmount": 800.0,
+        "Items": [
+            {
+                "ID": 3059,
+                "Name": "charger Iphone",
+                "Price": 400.0,
+                "Quantity": 2,
+                "Total": 800.0
+            }
+        ]
+    },
+    {
+        "Date": "2025-01-13 21:53:55",
+        "TotalAmount": 290.0,
+        "Items": [
+            {
+                "ID": 3057,
+                "Name": "charger type - c",
+                "Price": 290.0,
+                "Quantity": 1,
+                "Total": 290.0
+            }
+        ]
+    },
+    {
+        "Date": "2025-01-13 22:01:18",
+        "TotalAmount": 100.0,
+        "Items": [
+            {
+                "ID": 1023,
+                "Name": "Phone tempered",
+                "Price": 100.0,
+                "Quantity": 1,
+                "Total": 100.0
+            }
+        ]
+    },
+    {
+        "Date": "2025-01-13 22:28:46",
+        "TotalAmount": 100.0,
+        "Items": [
+            {
+                "ID": 1023,
+                "Name": "Phone tempered",
+                "Price": 100.0,
+                "Quantity": 1,
+                "Total": 100.0
+            }
+        ]
+    },
+    {
+        "Date": "2025-01-13 23:50:22",
+        "TotalAmount": 300.0,
+        "Items": [
+            {
+                "ID": 1023,
+                "Name": "Phone tempered",
+                "Price": 100.0,
+                "Quantity": 3,
+                "Total": 300.0
+            }
+        ]
+    },
+    {
+        "Date": "2025-01-13 23:50:31",
+        "TotalAmount": 1600.0,
+        "Items": [
+            {
+                "ID": 3059,
+                "Name": "charger Iphone",
+                "Price": 400.0,
+                "Quantity": 4,
+                "Total": 1600.0
+            }
+        ]
+    }
+]

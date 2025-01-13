@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 1023,
+        "Name": "Phone tempered",
+        "Price": 100,
+        "Quantity": 987
+    },
+    {
+        "ID": 3056,
+        "Name": "Phone Case",
+        "Price": 150,
+        "Quantity": 3
+    },
+    {
+        "ID": 3057,
+        "Name": "charger type - c",
+        "Price": 290.0,
+        "Quantity": 148
+    },
+    {
+        "ID": 3058,
+        "Name": "charger usb-type",
+        "Price": 200.0,
+        "Quantity": 147
+    },
+    {
+        "ID": 3059,
+        "Name": "charger Iphone",
+        "Price": 400.0,
+        "Quantity": 139
+    }
+]
